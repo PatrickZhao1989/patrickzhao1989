@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, my name is Patrick Zhao. I live in Melbourne. I am a senior consultant and software architect seeking best practices and most appropriate technologies to help corporate through out their digital journey. In my spare time, I enjoy swimming and cooking 😊
 
-<!--
-**PatrickZhao1989/patrickzhao1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 **Technologies I am specialized in** 
+> ### Web Application 
+- Angular
+- NodeJs, .Net Core, Python
+- Azure App Service, Azure Function, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 🏅 Certifications
+[Azure Fundamentals](https://www.youracclaim.com/badges/8e5446d5-db9c-4fee-84a2-16f1fc099449/public_url)
+
+![Azure Fundamentals Logo](./img/microsoft-certified-azure-fundamentals.png "Azure Fundamentals")
