@@ -40,8 +40,13 @@ Hi there, my name is Patrick Zhao. I live in Melbourne. I am a senior consultant
 
 ---
 
-> ## 🏅 **Certifications I have**
-[Azure Fundamentals](https://www.youracclaim.com/badges/8e5446d5-db9c-4fee-84a2-16f1fc099449/public_url)
+##  **My Certifications 🏅**
+[Azure Fundamentals](https://www.credly.com/badges/8e5446d5-db9c-4fee-84a2-16f1fc099449)
 <p align="left">
-  <img src="./img/microsoft-certified-azure-fundamentals.png" width="200" height="200">
+  <img src="./img/azure-fundamentals-600x600.png" width="200" height="200">
+</p>
+
+[Microsoft Certified: Azure Data Engineer Associate](https://www.credly.com/badges/db5504a4-aca1-472c-99d2-fecd0a58fd5d)
+<p align="left">
+  <img src="./img/azure-data-engineer-associate-600x600.png" width="200" height="200">
 </p>
