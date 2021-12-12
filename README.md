@@ -54,10 +54,3 @@ In my spare time, I enjoy swimming and cooking 😊
   <img src="./img/azure-fundamentals-600x600.png" width="200" height="200">
   <img src="./img/azure-data-engineer-associate-600x600.png" width="200" height="200">
 </p>
-
-
- <iframe width="560" height="315"
-src="https://youtu.be/EzKFoWIhwfY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
