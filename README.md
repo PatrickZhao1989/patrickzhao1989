@@ -1,8 +1,8 @@
-Welcome to my secret garden. I live in Melbourne. I am an experienced solution architect and technology consultant seeking best practices and most appropriate technologies to help my clients in their digital journey. 
+Welcome to my secret garden. I am a Melbourne based solution architect and consultant who is always trying to help my clients and stakeholders to remove the painpoint in their digital transformation journey.
 
-My interest in technology focuses on big data, machine learning and Azure. 
+I'm specilised in Azure, Microservice, Data and DevOps.
 
-In my spare time, I enjoy swimming and cooking 😊
+In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
 ---
 > ## 🚀 **Technologies I am good at** 
