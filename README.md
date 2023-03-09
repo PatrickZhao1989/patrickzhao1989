@@ -1,19 +1,17 @@
-Welcome to my secret garden. I am a Melbourne based solution architect and consultant who is always trying to help my clients and stakeholders to remove the painpoint in their digital transformation journey.
+Welcome to my backyard. I am an Australia based solution architect and cloud consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. 
 
 I'm specilised in Azure, Microservice, Data and DevOps.
 
 In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
----
-> ## 🚀 **Technologies I am good at** 
-### Programming Languages
-- JavaScript/TypeScript,
--  Python
--  C#
+My Blog: 
+https://wwww.patrickzhao.com.au/
 
+---
+> ## 🚀 **Ask me about** 
 ### Big Data, AI and Machine Learning
+- Databricks
 - Azure Synapse
-- Azure Databricks
 - Azure Data Factory
 - Azure BotFramework
 - Azure Cognitive Service
@@ -21,14 +19,12 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 - Google TensorFlow
 
 ### Web App & Serverless 
-- NodeJS, .Net
 - Azure App Service, Azure Function, Google Cloud Function, Google Firebase Function, Azure Logic App
 - Azure SignalR Service
 
 ### IoT, Streaming & Messaging
 - Azure IoT Hub, Event Hub, ServiceBus
 - Azure Stream Analytics
-- Azure HDInsight
 
 ### Storage, Caching and Database
 - Microsoft SQL, MySQL
@@ -38,11 +34,10 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
 ### DevOps and IaC
 - Azure DevOps
-- GitHub
 - ARM and Bicep
 - Pulumi
 
-### Others
+### Others & More
 - Twilio, Agora, SendGrid
 
 ---
