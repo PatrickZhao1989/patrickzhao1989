@@ -4,9 +4,6 @@ I'm specilised in Azure, Microservice, Data and DevOps.
 
 In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
-My Blog: 
-https://wwww.patrickzhao.com.au/
-
 ---
 > ## 🚀 **Ask me about** 
 ### Big Data, AI and Machine Learning
