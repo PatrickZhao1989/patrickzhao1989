@@ -1,4 +1,4 @@
-Welcome to my backyard. I am an Australia based solution architect and cloud consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. 
+I am an Australia based solution architect and consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. 
 
 I'm specilised in Azure, Microservice, Data and DevOps.
 
@@ -8,12 +8,10 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 > ## 🚀 **Ask me about** 
 ### Big Data, AI and Machine Learning
 - Databricks
-- Azure Synapse
-- Azure Data Factory
+- Azure Data Factory, Synapse, Stream Analytics
 - Azure BotFramework
 - Azure Cognitive Service
-- Google DialogFlow
-- Google TensorFlow
+- Google DialogFlow & TensorFlow
 
 ### Web App & Serverless 
 - Azure App Service, Azure Function, Google Cloud Function, Google Firebase Function, Azure Logic App
@@ -21,7 +19,7 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
 ### IoT, Streaming & Messaging
 - Azure IoT Hub, Event Hub, ServiceBus
-- Azure Stream Analytics
+- Confluent Cloud
 
 ### Storage, Caching and Database
 - Microsoft SQL, MySQL
