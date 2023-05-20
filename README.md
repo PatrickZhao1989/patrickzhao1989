@@ -7,34 +7,11 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 ---
 > ## 🚀 **Ask me about** 
 ### Big Data, AI and Machine Learning
-- Databricks
-- Azure Data Factory, Synapse, Stream Analytics
-- Azure BotFramework
-- Azure Cognitive Service
-- Google DialogFlow & TensorFlow
-
 ### Web App & Serverless 
-- Azure App Service, Azure Function, Google Cloud Function, Google Firebase Function, Azure Logic App
-- Azure SignalR Service
-
 ### IoT, Streaming & Messaging
-- Azure IoT Hub, Event Hub, ServiceBus
-- Confluent Cloud
-
-### Storage, Caching and Database
-- Microsoft SQL, MySQL
-- Redis
-- Azure CosmosDB, MongoDB, Firebase
-- Azure Data Lake
-
 ### DevOps and IaC
-- Azure DevOps
-- ARM and Bicep
-- Pulumi
 
-### Others & More
-- Twilio, Agora, SendGrid
-
+> ## What my blog please: [patrickzhao.com.au](https://www.patrickzhao.com.au/)
 ---
 
 ##  **My Certifications 🏅**
