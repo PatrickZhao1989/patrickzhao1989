@@ -6,10 +6,10 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
 ---
 > ## 🚀 **Ask me about** 
-### Big Data, AI and Machine Learning
-### Web App & Serverless 
-### IoT, Streaming & Messaging
-### DevOps and IaC
+- Big Data, AI and Machine Learning
+- Web App & Serverless 
+- IoT, Streaming & Messaging
+- DevOps and IaC
 
 > ## What my blog please: [patrickzhao.com.au](https://www.patrickzhao.com.au/)
 ---
