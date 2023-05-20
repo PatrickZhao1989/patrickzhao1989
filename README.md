@@ -11,7 +11,7 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 - IoT, Streaming & Messaging
 - DevOps and IaC
 
-> ## What my blog please: [patrickzhao.com.au](https://www.patrickzhao.com.au/)
+> ## I blog at: [patrickzhao.com.au](https://www.patrickzhao.com.au/)
 ---
 
 ##  **My Certifications 🏅**
