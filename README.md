@@ -1,4 +1,4 @@
-I am an Australia based solution architect and consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. 
+I am an Australia based solution architect and consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. I firmly believe in domain driven design. 
 
 I'm specilised in Azure, Microservice, Data and DevOps.
 
@@ -6,6 +6,7 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
 ---
 > ## 🚀 **Ask me about** 
+- Enterprise Architecture, Solution Architecture
 - Big Data, AI and Machine Learning
 - Web App & Serverless 
 - IoT, Streaming & Messaging
