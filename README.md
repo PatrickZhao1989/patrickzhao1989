@@ -1,6 +1,6 @@
-I am an Australia based solution architect and consultant who is always trying to help my clients and stakeholders to solve complex problems and remove the roadblocks in their digital transformation journey. I firmly believe in domain driven design. 
+I am an Australia based solution architect and consultant who is always striving to help my clients and stakeholders to solve complex business problems and navigate through the digital transformation journey.
 
-I'm specilised in Azure, Microservice, Data and DevOps.
+I'm specilised in Azure, Adobe, Microservice, Data and DevOps.
 
 In my spare time, I enjoy rock climibing, swimming and cooking 😊
 
@@ -16,9 +16,4 @@ In my spare time, I enjoy rock climibing, swimming and cooking 😊
 ---
 
 ##  **My Certifications 🏅**
-- [Azure Fundamentals](https://www.credly.com/badges/8e5446d5-db9c-4fee-84a2-16f1fc099449)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.credly.com/badges/db5504a4-aca1-472c-99d2-fecd0a58fd5d)
-<p align="left">
-  <img src="./img/azure-fundamentals-600x600.png" width="200" height="200">
-  <img src="./img/azure-data-engineer-associate-600x600.png" width="200" height="200">
-</p>
+- [Patrick Zhao - Skills Profile](https://www.credly.com/users/patrick-zhao)
